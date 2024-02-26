@@ -14,7 +14,9 @@ This repository contains code for training a robot car to navigate an environmen
 
 ![download (2)](https://github.com/satrajitghosh183/Collison-Detection-using-Reinforcement-Learning/assets/83156880/9d10eb0b-b666-434f-a9ba-f0cc1b9fb71a)
 ![download (1)](https://github.com/satrajitghosh183/Collison-Detection-using-Reinforcement-Learning/assets/83156880/52104a7d-6339-478b-af72-fdd76fc887ca)
-![Uploading download.png…]()
+![download](https://github.com/satrajitghosh183/Collison-Detection-using-Reinforcement-Learning/assets/83156880/802f2275-90f4-4366-acf8-69df430a7635)
+
+
 
 ## Installation
 
