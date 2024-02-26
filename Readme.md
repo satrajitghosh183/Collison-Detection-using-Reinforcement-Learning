@@ -9,6 +9,9 @@ This repository contains code for training a robot car to navigate an environmen
 - Training of a robot car using Deep Q-Learning
 - Obstacle avoidance and goal-reaching capabilities
 - Display of the environment and the robot's path
+![download (2)](https://github.com/satrajitghosh183/Collison-Detection-using-Reinforcement-Learning/assets/83156880/9d10eb0b-b666-434f-a9ba-f0cc1b9fb71a)
+![download (1)](https://github.com/satrajitghosh183/Collison-Detection-using-Reinforcement-Learning/assets/83156880/52104a7d-6339-478b-af72-fdd76fc887ca)
+![Uploading download.png…]()
 
 ## Installation
 
